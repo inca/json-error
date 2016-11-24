@@ -1,6 +1,6 @@
 {
   "name": "json-error",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convert Error to/from JSON with message, details, code, name and stack",
   "main": "index.js",
   "scripts": {
