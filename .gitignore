@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+.eslintcache
+.DS_Store
+dump.rdb
+tags
+.env
+
+build/
+work/
+dist/
+static/index.css
